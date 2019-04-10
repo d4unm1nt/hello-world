@@ -1,5 +1,5 @@
 # hello-world
-Memulai dari awal :)
+Memulai dari awal ngoding dan berkarya :)
 
 Ikuti sosial media Daun Mint Inc
 
